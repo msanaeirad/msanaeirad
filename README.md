@@ -2,23 +2,19 @@
 
 Infrastructure Automation Engineer
 
-## My Focus
+## About Me
+
+I design and automate modern IT infrastructure using Networking, Linux, Python, Cloud and Artificial Intelligence.
+
+## Core Skills
 
 - Network Engineering
 - Linux
 - Python
 - Infrastructure Automation
-- Artificial Intelligence
 - Cloud Computing
+- Artificial Intelligence
 
-## Currently Learning
-
-- Python for Network Automation
-- Ansible
-- Docker
-- Kubernetes
-- AI for Infrastructure
-
-## Goal
+## Mission
 
 Building intelligent, secure and automated infrastructure.
