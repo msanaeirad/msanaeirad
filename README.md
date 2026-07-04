@@ -2,7 +2,7 @@
 
 Infrastructure Automation Engineer
 
-## About Me
+## About
 
 I design and automate modern IT infrastructure using Networking, Linux, Python, Cloud and Artificial Intelligence.
 
@@ -15,6 +15,6 @@ I design and automate modern IT infrastructure using Networking, Linux, Python, 
 - Cloud Computing
 - Artificial Intelligence
 
-## Mission
+## Vision
 
 Building intelligent, secure and automated infrastructure.
