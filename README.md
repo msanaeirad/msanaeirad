@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Sanaeirad 👋
+# Hi, I'm Mohammad Sanaeirad 
 
 Infrastructure Automation Engineer
 
