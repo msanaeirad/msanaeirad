@@ -4,16 +4,16 @@ Infrastructure Automation Engineer
 
 ## About
 
-I build and automate modern IT infrastructure using Networking, Linux, Python, Cloud and Artificial Intelligence.
+I focus on Network Engineering, Linux Administration and Infrastructure Automation using Python.
 
 ## Core Skills
 
 - Network Engineering
-- Linux
+- Linux Administration
 - Python
 - Infrastructure Automation
-- Cloud Computing
-- Artificial Intelligence
+- MikroTik
+- TCP/IP
 
 ## Vision
 
