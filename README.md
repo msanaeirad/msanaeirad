@@ -17,4 +17,4 @@ I focus on Network Engineering, Linux Administration and Infrastructure Automati
 
 ## Vision
 
-Building intelligent, secure and automated infrastructure.
+Building reliable, secure and automated infrastructure.
